@@ -1,6 +1,5 @@
-## Bigram Language Model
-
-### Training GPT model from scratch
+#### Bigram Language Model
+##### Training GPT model from scratch
 <p>
 Libraries used:
 - torch
@@ -13,14 +12,14 @@ Set up:
 - Proceed to setting up training and validation data 
 - Train with a BigramLanguage Model architecture using Attention mechanism
 </p>
-
+<br/>
 <p>
-File structure:
+File structure: <br/>
 __ README.md <br/>
 __ S21_GPTFromScratch_Andrej_v1.ipynb
 
 </p>
 
-### Steps:
+##### Steps:
 <p>The notebook S21_GPTFromScratch_Andrej_v1.ipynb is self explanatory, all one needs to do is run the cells in sequence, irrespective of which environment you are running from Colab, or otherwise
 </p>
