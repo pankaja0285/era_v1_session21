@@ -32,5 +32,5 @@ __ S21_GPTFromScratch_Andrej_v1.ipynb<br/>
 - "self-attention" just means that the keys and values are produced from the same source as queries. In "cross-attention", the queries still get produced from x, but the keys and values come from some other, external source (e.g. an encoder module)
 - "Scaled" attention additional divides `wei` by 1/sqrt(head_size). This makes it so when input Q,K are unit variance, wei will be unit variance too and Softmax will stay diffuse and not saturate too much. Illustration below
 </p>
-<h3>Acknoledgements: This is based on Andrej Karpathy's training GPT from scratch and his YouTube video</h3>
-<h4>Collaborators: GK Divya and Pankaja Shankar. Any questions or comments please drop a line.</h4>
+<h4>Acknoledgements: This is based on Andrej Karpathy's training GPT from scratch and his YouTube video</h4>
+<h5>Collaborators: GK Divya and Pankaja Shankar. Any questions or comments please drop a line.</h5>
