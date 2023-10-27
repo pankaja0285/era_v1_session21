@@ -1,5 +1,5 @@
-#### Bigram Language Model
-##### Training GPT model from scratch
+<h1> Bigram Language Model
+<h2> Training GPT model from scratch </h2>
 <p>
 Libraries used:
 - torch
@@ -20,6 +20,6 @@ __ S21_GPTFromScratch_Andrej_v1.ipynb
 
 </p>
 
-##### Steps:
+<h2> Steps: </h2>
 <p>The notebook S21_GPTFromScratch_Andrej_v1.ipynb is self explanatory, all one needs to do is run the cells in sequence, irrespective of which environment you are running from Colab, or otherwise
 </p>
